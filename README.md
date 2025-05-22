@@ -12,3 +12,4 @@ accuracy and transparency, allowing both technical experts and decision-makers t
 trust the predictions.**
 
 **Original Dataset Link** : - https://drive.google.com/file/d/1PsRJkGuFPJSQW-MpHKhajUv6DiXHJ-pM/view?usp=sharing
+**Dashboard** :- https://app.powerbi.com/links/NR3hNRMBdx?ctid=187ca15f-54e0-4673-86f6-b6d7f4c75eef&pbi_source=linkShare&bookmarkGuid=f4d00bee-3be8-40f2-a712-62bb3d9ac57e
